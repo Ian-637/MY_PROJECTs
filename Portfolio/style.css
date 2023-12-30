@@ -1,0 +1,14 @@
+#greet{
+    text-align: center;
+    font-size: 100px;
+    position: relative;
+}
+#name{
+    text-align: center;
+    font-size: 100px;
+    position: relative;
+    top: -120px;
+}
+#hello{
+    color: red;
+}
